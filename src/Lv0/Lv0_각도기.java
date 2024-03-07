@@ -1,5 +1,5 @@
 package Lv0;
-
+// 각도기
 public class Lv0_각도기 {
     class Solution {
         public int solution(int angle) {
