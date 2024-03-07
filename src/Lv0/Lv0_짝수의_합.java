@@ -1,5 +1,5 @@
 package Lv0;
-
+// 짝수의 합
 public class Lv0_짝수의_합 {
     class Solution {
         public int solution(int n) {
