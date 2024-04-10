@@ -1,7 +1,7 @@
 package Lv0;
-
+import java.util.*;
 public class Lv0_중앙값_구하기 {
-    import java.util.*;
+    //import java.util.*;
 
     class Solution {
         public int solution(int[] array) {
